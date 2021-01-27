@@ -1,4 +1,4 @@
-# Note about Git (Week 3)
+# Overview Git (Week 3)
 **Git** is one of the *Version Control Systems*. <br>
 **GitHub** (https://github.com/) is the website that host several repositories. <br>
 Version control using Git is done by "commit" or saving the snapshots of the progress. <br>
@@ -30,6 +30,8 @@ $ git add file.txt
 $ git status
 # IF everything looks OK. Commit the file with a message:
 $ git commit -m "Commit message"
+```
+
 
 
 
