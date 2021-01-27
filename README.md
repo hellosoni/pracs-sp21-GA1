@@ -1,1 +1,1 @@
-A repository for week 3 assignment
+Git Overview and Workflow in the note of Git file
