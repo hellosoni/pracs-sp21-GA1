@@ -36,5 +36,10 @@ git add README.md
 git commit -m "Add code block in README"
 git status
 
-
+# Push your local repo online
+```
+git remote add origin git@github.com:hellosoni/pracs-sp21-GA1.git
+git branch -M main
+git push -u origin main
+```
 
